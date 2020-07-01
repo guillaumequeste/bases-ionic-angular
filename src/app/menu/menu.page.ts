@@ -12,16 +12,20 @@ export class MenuPage implements OnInit {
 
   pages = [
     {
+      name: 'Home',
+      path: '/menu/home'
+    },
+    {
+      name: 'Infos',
+      path: '/menu/infos'
+    },
+    {
       name: 'Login',
       path: '/menu/login'
     },
     {
       name: 'Register',
       path: '/menu/register'
-    },
-    {
-      name: 'Home',
-      path: '/menu/home'
     },
     {
       name: 'Contact',

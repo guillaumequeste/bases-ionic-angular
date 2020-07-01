@@ -25,9 +25,10 @@ ionic build
    - ng generate page contact
    - ng generate page register
    Changer 'app/app-routing.module.ts'
+   Changer 'app/menu/menu-routing.module.ts'
    Changer 'app/menu/menu.module.ts'
-   Changer 'app/menu/menu.page.ts'
    Changer 'app/menu/menu.page.html'
+   Changer 'app/menu/menu.page.ts'
    Changer 'app/contact/contact.page.html'
    Changer 'app/home/home.page.html'
    Changer 'app/login/login.page.html'
